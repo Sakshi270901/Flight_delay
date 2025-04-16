@@ -9,7 +9,6 @@ This end-to-end data science project predicts whether a flight will be delayed b
 ## 📁 Files Included
 - `Flight_delays_FINAL.ipynb` — Full notebook with EDA + modeling
 - `1st_visual.pbix` — Interactive Power BI dashboard
-- `Airline_Delay_Cause.csv` — Source dataset
 
 ## 🎯 Key Outcomes
 - Accuracy: 89%
